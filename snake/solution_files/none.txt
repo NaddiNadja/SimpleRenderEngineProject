@@ -1,0 +1,2 @@
+add_executable(Snake "startingpoint.cpp" "ITUGames.h" "MyEngine.h" "MyGame.h" "MyEngine.cpp" "MyGame.cpp")
+target_include_directories(Snake PUBLIC "../../Utils")
