@@ -132,6 +132,9 @@ mark_as_advanced(
 add_subdirectory(
 	snake
 )
+#add_subdirectory(
+#	Exercise4
+#)
 add_subdirectory(
-	Exercise4
+	Exercise8
 )
